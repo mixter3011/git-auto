@@ -1,6 +1,6 @@
 
 # Git-Auto
-Automate Git repository creation and initialization with GitHub integration using this Go CLI tool.
+Automate Git repository creation and initialization with GitHub integration using this Go CLI tool. To view how this command works visit my Twitter https://twitter.com/SENachi27
 
 ### Description
 Git Automator is a command-line tool built in Go that simplifies the process of setting up a Git repository with GitHub integration. It automates the steps of creating a GitHub repository, initializing a local Git repository, adding the GitHub repository as a remote origin, committing changes, and pushing them to the remote repository, all in one command.
