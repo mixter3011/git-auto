@@ -1,4 +1,3 @@
-
 # Git-Auto
 Automate Git repository creation and initialization with GitHub integration using this Go CLI tool. To view how this command works visit my Twitter https://twitter.com/SENachi27
 
